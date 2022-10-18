@@ -2,6 +2,8 @@
 
 suzuki.kaito
 
+編集を加えました。
+
 - Apple
 - Banana
 - Peach
